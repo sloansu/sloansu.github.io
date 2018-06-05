@@ -3,13 +3,11 @@ title: Github-Hexo-Next搭建博客流程
 date: 2018-06-04 18:29:48
 tags:
 ---
-## 目录 ##
+本文将介绍如何大家一个属于自己的技术博客，使用Hexo管理生成你的静态博客，使用Github托管你的博客代码，使用NexT主题美化你的博客。
 
-- [GitHub](#github)
-- [Hexo](#hexo)
-- [Next](#next)
+<!-- more -->
 
-<h2 id="github"> Github </h2>
+## Github ##
 
 1. 首先注册一个『github』账号;
 2. 建立与你的用户名对应的仓库，仓库名必须为『your_user_name.github.com』;
@@ -27,7 +25,7 @@ tags:
 
   			ssh -T git@github.com 
 
-<h2 id="hexo">Hexo</h2>
+## Hexo ##
 
 1. 安装[Node.js](https://nodejs.org/en/ "Nodejs官网")。
 2. 安装Git。可以使用[msysgit](http://code.google.com/p/msysgit)作为git客户端。
@@ -57,6 +55,11 @@ tags:
 		//执行该命令后，在“source/_posts”目录下生成文件
 		//通过本地文本编辑器，编辑生成的“.md”文件。
 
-<h2 id="next">Next</h2>
+## Next ##
 
 [NexT](http://theme-next.iissnan.com/)为Hexo的一个主题。
+
+---
+
+## 参考文献 ##
+ [1] http://ibruce.info/2013/11/22/hexo-your-blog/
