@@ -1,7 +1,11 @@
 ---
-title: Github-Hexo-Next搭建博客流程
+title: Github-Hexo-NexT搭建博客流程
 date: 2018-06-04 18:29:48
 tags:
+  - Github-pages
+  - Hexo
+  - NexT
+categories: 工具
 ---
 本文将介绍如何大家一个属于自己的技术博客，使用Hexo管理生成你的静态博客，使用Github托管你的博客代码，使用NexT主题美化你的博客。
 
@@ -55,7 +59,7 @@ tags:
 		//执行该命令后，在“source/_posts”目录下生成文件
 		//通过本地文本编辑器，编辑生成的“.md”文件。
 
-## Next ##
+## NexT ##
 
 [NexT](http://theme-next.iissnan.com/)为Hexo的一个主题。
 

@@ -4,8 +4,8 @@
 
 # Site
 title: Sloan's Blogs
-subtitle: 天生我材必有用！
-description: 天生我材必有用！
+subtitle: 不忘初心，方得始终
+description: 
 keywords: Code
 author: Sloan Su
 language: zh-Hans
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://sloansu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -29,8 +29,8 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
-default_layout: post
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+default_layout: draft
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
