@@ -5,7 +5,9 @@ tags:
   - Github-pages
   - Hexo
   - NexT
-categories: 工具
+categories: 
+  - 基本工具
+  - 操作流程
 ---
 本文将介绍如何大家一个属于自己的技术博客，使用Hexo管理生成你的静态博客，使用Github托管你的博客代码，使用NexT主题美化你的博客。
 

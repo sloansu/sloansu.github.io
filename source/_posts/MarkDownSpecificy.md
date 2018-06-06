@@ -2,6 +2,10 @@
 title: MarkDown中文介绍
 date: 2018-06-04 17:01:54
 tags:
+  - Markdown
+categories: 
+  - 基本工具
+  - 标记语言
 ---
 
 本文参照[Markdown中文说明文档](http://wowubuntu.com/markdown/)介绍了markdown的基本概念和基本语法。

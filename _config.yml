@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sloansu.github.io
+url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,5 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sloansu/sloansu.github.io.git
+  repo: 
+    coding: https://github.com/sloansu/sloansu.github.io.git
+    github: https://git.coding.net/sloansu/sloansu.coding.me.git
   branch: master
