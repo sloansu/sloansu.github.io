@@ -43,7 +43,7 @@ categories:
 		npm install //安装<folder>中的全部的依赖项,即<node_modules>
 		hexo generate //生成静态页面到public/目录
 		
-		npm install hexo-deplorer-git --save // 安装hexo-deplorer-git
+		npm install hexo-deployer-git --save // 安装hexo-deplorer-git
 		hexo deploy //部署到远程仓库
 		hexo d -g //集成上面两步的命令
 
