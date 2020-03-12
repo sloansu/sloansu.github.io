@@ -189,7 +189,7 @@ body {
   font-size: 14px;
   line-height: 2;
   color: #555;
-  background: url("/images/background.jpg");
+  background: #8090ad;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -1831,7 +1831,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff3e38;
+  background: #f9ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2701,7 +2701,7 @@ pre .javascript .function {
   float: left;
   margin-top: 300px;
   width: 240px;
-  background: url("/images/background.jpg");
+  background: #8090ad;
   box-shadow: none;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -3056,15 +3056,15 @@ pre .javascript .function {
 }
 .post-body h1 {
   font-size: 1.6em;
-  border-bottom: 1px solid url("/images/background.jpg");
+  border-bottom: 1px solid #8090ad;
 }
 .post-body h2 {
   font-size: 1.45em;
-  border-bottom: 1px solid url("/images/background.jpg");
+  border-bottom: 1px solid #8090ad;
 }
 .post-body h3 {
   font-size: 1.3em;
-  border-bottom: 1px dotted url("/images/background.jpg");
+  border-bottom: 1px dotted #8090ad;
 }
 .post-body h4 {
   font-size: 1.2em;
