@@ -65,6 +65,15 @@ categories:
 
 [NexT](http://theme-next.iissnan.com/)为Hexo的一个主题。
 
+## 异地协作更新Blog ##
+
+1. mkdir HexoBlog
+2. hexo init
+3. git clone https://github.com/sloansu/sloansu.github.io.git temp
+4. mv temp/.git ./
+5. rm -rf temp
+6. git reset --hard HEAD
+
 ---
 
 ## 参考文献 ##
